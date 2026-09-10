@@ -1,15 +1,15 @@
 # requirementsEngineeringProject
 my Requirements Engineering work
 
-# Student
+## Student
 Name: Lily O'Sullivan
 
-# Module
+## Module
 Requirements Engineering
 
-# Project Status
+## Project Status
 Week 1 - Initial discovery
 
-# Repository Purpose
+## Repository Purpose
 This repository contains my Requirements Engineering project work, including requirements, models, prototypes, validation evidence and project revisions.
 
