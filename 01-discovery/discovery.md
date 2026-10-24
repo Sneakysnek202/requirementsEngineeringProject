@@ -46,7 +46,9 @@ The system should help the college with equipment not being returned on time.
 Things that seem to be apart of the problem
 1. The disorganised system, they are currently booking equipment through spreadsheets, emails and informal meetings.
 2. Students don't know who to go to for booking equipment, so they most likely dont know who to go to for returning equipment leading to loss of property.
-3. 
+
 ## 7. Candidate Requirements
+
 ## 8. Requirement Surgery
+
 ## 9. Reflection
